@@ -43,11 +43,10 @@ export default {
     const script = document.createElement('script')
     script.src = 'https://utteranc.es/client.js'
     script.async = true
-    script.setAttribute('repo', 'YamilethMairenaSegura/Tarea2Arq') // Nombre de tu repo
+    script.setAttribute('repo', 'YamilethMairenaSegura/Tarea2Utterances') // Nombre de tu repo
     script.setAttribute('issue-term', 'pathname')
     script.setAttribute('theme', 'github-light')
-    script.setAttribute('crossorigin', 'anonymous')
-
+    script.setAttribute('crossorigin', 'anonymous')   
     const commentBox = document.getElementById('utterances-container')
     if (commentBox) {
       commentBox.appendChild(script)
