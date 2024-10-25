@@ -1,0 +1,118 @@
+[
+  {
+  "id": 1,
+  "name": "Bugatti B110",
+  "manufacturerId": 1,
+  "designerId": 1,
+  "year": 1991,
+  "topSpeed": "343 km/h",
+  "image": "/images/Bugatti_EB_110.jpg"
+},
+{
+  "id": 2,
+  "name": "SSC Ultimate Aero",
+  "manufacturerId": 2,
+  "designerId": 2,
+  "year": 2006,
+  "topSpeed": "412 km/h",
+  "image": "/images/SSC_Ultimate_Aero.jpg"
+  },
+{
+  "id": 3,
+  "name": "Porsche 959",
+  "manufacturerId": 3,
+  "designerId": 3,
+  "year": 1986,
+  "topSpeed": "317 km/h",
+  "image": "/images/Porsche_959.jpg"
+ },
+
+{
+  "id": 4,
+  "name": "McLaren P1",
+  "manufacturerId": 4,
+  "designerId": 4,
+  "year": 2013,
+  "topSpeed": "350 km/h",
+  "image": "/images/McLaren_P1.jpeg"
+  },
+{
+  "id": 5,
+  "name": "Ferrari SF90 Stradale",
+  "manufacturerId": 5,
+  "designerId": 5,
+  "year": 2019,
+  "topSpeed": "340 km/h",
+  "image": "/images/Red_2019_Ferrari_SF9.jpg"
+},
+{
+    "id": 6,
+    "name": "Koenigsegg One 1",
+    "manufacturerId": 6,
+    "designerId": 6,
+    "year": 2014,
+    "topSpeed": "447 km/h",
+    "image": "/images/Koenigsegg_One.jpg"
+   },
+   {
+    "id": 7,
+    "name": "Cizeta-Moroder_V16T",
+    "manufacturerId": 7,
+    "designerId": 1,
+    "year": 2014,
+    "topSpeed": "447 km/h",
+    "image": "/images/Cizeta-Moroder_V16T.jpg"
+   },
+   {
+    "id": 8,
+    "name": "Lamborghini_Countach",
+    "manufacturerId": 8,
+    "designerId": 1,
+    "year": 2014,
+    "topSpeed": "447 km/h",
+    "image": "/images/Lamborghini_Countach.jpg"
+   },
+   {
+    "id": 9,
+    "name": "Ferrari_Roma",
+    "manufacturerId": 10,
+    "designerId": 5,
+    "year": 2014,
+    "topSpeed": "360 km/h",
+    "image": "/images/Ferrari_Roma.jpg"
+   },
+   {
+    "id": 10,
+    "name": "Ferrari_Monza_SP1",
+    "manufacturerId": 10,
+    "designerId": 5,
+    "year": 2014,
+    "topSpeed": "447 km/h",
+    "image": "/images/Ferrari_Monza_SP1.jpg"
+   },
+
+{
+  "id": 11,
+  "name": "Ferrari_F12berlinetta",
+  "manufacturerId": 10,
+  "designerId": 5,
+  "year": 2014,
+  "topSpeed": "447 km/h",
+  "image": "/images/Ferrari_F12berlinetta.jpg"
+ },
+ {
+  "id": 12,
+  "name": "Maserati_MC12",
+  "manufacturerId": 9,
+  "designerId": 4,
+  "year": 2014,
+  "topSpeed": "447 km/h",
+  "image": "/images/Maserati_MC12.jpeg"
+ }
+]
+
+
+
+
+
+

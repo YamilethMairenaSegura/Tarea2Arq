@@ -1,0 +1,113 @@
+[{
+  "id": 1,
+  "name": "Bugatti EB 110",
+  "country": "France",
+  "founded": "1909",
+  "year": 1991,
+  "topSpeed": "343 km/h",
+  "image": "/images/Bugatti_Molsheim_109.jpg",
+  "modeloId": 1,
+  "disenadorId": 1
+},
+{
+    "id": 2,
+    "name": "SSC Ultimate Aero",
+    "country": "USA",
+    "founded": "1998",
+    "year": 2006,
+    "topSpeed": "412 km/h",
+    "image": "/images/Jay_Leno_and_Jerod_Shelby.jpg",
+    "modeloId": 2,
+    "disenadorId": 2
+  },
+{
+    "id": 3,
+    "name": "Porsche 959",
+    "country": "Germany",
+    "founded": "1931",
+    "year": 1986,
+    "topSpeed": "317 km/h",
+    "image": "/images/Porsche.jpg",
+    "modeloId": 3,
+    "disenadorId": 3
+  },
+{
+    "id": 4,
+    "name": "McLaren P1",
+    "country": "United Kingdom",
+    "founded": "1963",
+    "year": 2013,
+    "topSpeed": "350 km/h",
+    "image": "/images/The_McLaren_Technology_Centre_geograph.jpg",
+    "modeloId": 4,
+    "disenadorId": 4
+    
+  },
+{
+    "id": 5,
+    "name": "Ferrari SF90 Stradale",
+    "country": "Italy",
+    "founded": "1939",
+    "year": 2019,
+    "topSpeed": "340 km/h",
+    "image": "/images/Ferrari_e.jpg",
+    "modeloId": 5,
+    "disenadorId": 5
+  },
+  {
+    "id": 6,
+    "name": "Koenigsegg One 1",
+    "country": "Sweden",
+    "founded": "1994",
+    "year": 2014,
+    "topSpeed": "447 km/h",
+    "image": "/images/Koenigsegg_gebaeude.jpg",
+    "modeloId": 6,
+    "disenadorId": 6
+  },
+  {
+    "id": 7,
+    "name": "Cizeta",
+    "country": "California",
+    "founded": "1988",
+    "year": 1994,
+    "topSpeed": "447 km/h",
+    "image": "/images/Cizeta.png",
+    "modeloId": 7,
+    "disenadorId": 1
+  },
+  {
+    "id": 8,
+    "name": "Lamborghine",
+    "country": "Italia",
+    "founded": "1974",
+    "year": 1990,
+    "topSpeed": "447 km/h",
+    "image": "/images/Lamborghini.jpg",
+    "modeloId": 8,
+    "disenadorId": 1
+  },
+  {
+    "id": 9,
+    "name": "Maserati",
+    "country": "Bolonia",
+    "founded": "1914",
+    "year": 1920,
+    "topSpeed": "447 km/h",
+    "image": "/images/Maserati_Mod.jpg",
+    "modeloId": 12,
+    "disenadorId": 1
+  },
+  {
+    "id": 10,
+    "name": "Ferrari",
+    "country": "Italia",
+    "founded": "1947",
+    "year": 1947,
+    "topSpeed": "447 km/h",
+    "image": "/images/Ferrari_e.jpg",
+    "modeloId": 11,
+    "disenadorId": 1
+  }
+    
+]

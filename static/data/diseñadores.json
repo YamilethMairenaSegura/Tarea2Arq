@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Marcello Gandini",
+    "nationality": "Italiano",
+    "notableWorks": "Bugatti EB110",
+    "image": "/images/Marcello_Gandini.jpg",
+    "modelId": 1,
+    "fabricanteId": 1
+  },
+  {
+    "id": 2,
+    "name": "Jerod Shelby",
+    "nationality": "Estaunidense",
+    "notableWorks": "SSC Ultimate Aero",
+    "image": "/images/Jay_Leno_and_Jerod_Shelby.jpg",
+    "modelId": 2,
+    "fabricanteId": 2
+  },
+  {
+    "id": 3,
+    "name": "Helmuth Bott",
+    "nationality": "Aleman",
+    "notableWorks": "Porsche 959",
+    "image": "/images/Helmuth_Bott.jpeg",
+    "modelId": 3,
+    "fabricanteId": 3
+  },
+  {
+    "id": 4,
+    "name": "Frank Stephenson",
+    "nationality": "Estaunidense",
+    "notableWorks": "McLaren P1",
+    "image": "/images/Frank_Stephenson.jpeg",
+    "modelId": 4,
+    "fabricanteId": 4
+  },
+  {
+    "id": 5,
+    "name": "Flavio Manzoni",
+    "nationality": "Italiano",
+    "notableWorks": "Ferrari SF90 Stradale",
+    "image": "/images/Flavio_Manzoni.jpg",
+    "modelId": 5,
+    "fabricanteId": 5
+  },
+  {
+    "id": 6,
+    "name": "Christian Erland",
+    "nationality": "Sueco",
+    "notableWorks": "Koenigsegg One 1",
+    "image": "/images/Christian_Erland.PNG",
+    "modelId": 6,
+    "fabricanteId": 6
+  }
+]
